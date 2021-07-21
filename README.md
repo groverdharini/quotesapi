@@ -1,3 +1,2 @@
 # quotesapi
-api for quotes
-DENO live server
+Deno api which generates quote.It was integrated with the flutter app
